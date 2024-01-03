@@ -1,0 +1,31 @@
+#main {
+border: 2px;
+border-color: black;
+padding: 10px;
+margin: 10%;
+justify-content: center;
+
+}
+
+/* #buttons {
+        font-family: "helvetica neue", helvetica, sans-serif;
+        letter-spacing: 1px;
+        /* text-transform: uppercase; */
+        border: 2px solid rgb(184, 62, 221);
+        background-color: rgba(255, 255, 255, 0.747);
+        color: rgb(0, 0, 0);
+        box-shadow: 1px 1px 2px rgb(0 0 200 / 0.4);
+        border-radius:20px;
+        padding: 5px 10px;
+        cursor: pointer;
+      } */
+
+body {
+    /* align-content: center; */
+    background-color: rgb(207, 196, 182);
+    display: flexbox;
+}
+
+#counter {
+  justify-content: center;
+}
